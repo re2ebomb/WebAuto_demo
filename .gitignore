@@ -19,4 +19,4 @@ venv/
 # IDEA
 .idea/
 
-config.yaml
+./config
