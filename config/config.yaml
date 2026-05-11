@@ -1,0 +1,6 @@
+url: "http://127.0.0.1:8234/"
+login_url: "login.html"
+device_model_url: "index.html#/devicemodel"
+service_rule_url: "index.html#/svcrule"
+
+#yaml中的保存：基础地址和路径，在python中拼接
