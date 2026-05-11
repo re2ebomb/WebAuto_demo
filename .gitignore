@@ -1,0 +1,22 @@
+# python缓存
+__pycache__/
+*.pyc
+
+# pytest缓存
+.pytest_cache/
+
+# 日志
+logs/
+*.log
+
+# 测试报告
+reports/
+
+# 虚拟环境
+venv/
+.env/
+
+# IDEA
+.idea/
+
+config.yaml
